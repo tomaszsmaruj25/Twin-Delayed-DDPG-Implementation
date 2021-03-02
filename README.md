@@ -1,13 +1,12 @@
 # Twin Delayed DDPG Implementation
 ## Introduction
 A project made on the basis of a course on the Udemy platform:  
-[https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/)
-
+[https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/).
 The entire project was made in Google Collab. The visualization of the results was created in the OpenAI Gym libraries. 
 
-Ant - Average Reward over the Evaluation Step: 2414.343556
-
 <img src="assets/Ant.gif" width="450" height="300">
+
+Ant - Average Reward over the Evaluation Step: 2414.343556
 
 ## Main Idea
 The aim of the project was to propose a control based on gain learning algorithms. I decided to implement an architecture that is an extension of the DDPG (Deep Deterministic Gradient Descent) algorithm, i.e. an architecture with an actor and a critic. 
@@ -20,15 +19,15 @@ It differs from the standard DDPG architecture in that it has an additional crit
 
 ## Simulation results
 
-Average Reward over the Evaluation Step: 2862.100705
+HalfCheetah - Average Reward over the Evaluation Step: 2862.100705
 
 <img src="assets/HalfCheetah.gif" width="450" height="300">
 
-Average Reward over the Evaluation Step: 1755.878847
+Hooper - Average Reward over the Evaluation Step: 1755.878847
 
 <img src="assets/Hooper.gif" width="450" height="300">
 
-Average Reward over the Evaluation Step: 1276.085720
+Walker - Average Reward over the Evaluation Step: 1276.085720
 
 <img src="assets/Walker.gif" width="450" height="300">
 
