@@ -21,8 +21,10 @@ It differs from the standard DDPG architecture in that it has an additional crit
 <img src="assets/HalfCheetah.gif" width="450" height="300">
 Average Reward over the Evaluation Step: 2862.100705
 
+
 <img src="assets/Hooper.gif" width="450" height="300">
 Average Reward over the Evaluation Step: 1755.878847
+
 
 <img src="assets/Walker.gif" width="450" height="300">
 Average Reward over the Evaluation Step: 1276.085720
