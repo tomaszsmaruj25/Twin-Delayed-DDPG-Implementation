@@ -2,10 +2,12 @@
 ## Introduction
 A project made on the basis of a course on the Udemy platform:  
 [https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/)
-The entire project was made in Google Collab.
+
+The entire project was made in Google Collab. The visualization of the results was created in the OpenAI Gym libraries. 
+
+Ant - Average Reward over the Evaluation Step: 2414.343556
 
 <img src="assets/Ant.gif" width="450" height="300">
-Average Reward over the Evaluation Step: 2414.343556
 
 ## Main Idea
 The aim of the project was to propose a control based on gain learning algorithms. I decided to implement an architecture that is an extension of the DDPG (Deep Deterministic Gradient Descent) algorithm, i.e. an architecture with an actor and a critic. 
