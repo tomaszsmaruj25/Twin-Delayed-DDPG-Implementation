@@ -1,4 +1,4 @@
-# Twin-Delayed-DDPG-Implementation
+# Twin Delayed DDPG Implementation
 A project made on the basis of a course on the Udemy platform  https://www.udemy.com/course/deep-reinforcement-learning/
 The entire project was made in google Collab.
 
