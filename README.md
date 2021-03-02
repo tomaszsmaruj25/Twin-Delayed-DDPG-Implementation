@@ -1,7 +1,6 @@
 # Twin Delayed DDPG Implementation
 ## Introduction
-A project made on the basis of a course on the Udemy platform:  
-[https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/).
+A project made on the basis of a course on the Udemy platform:  [https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/).
 The entire project was made in Google Collab. The visualization of the results was created in the OpenAI Gym libraries. 
 
 <img src="assets/Ant.gif" width="450" height="300">
