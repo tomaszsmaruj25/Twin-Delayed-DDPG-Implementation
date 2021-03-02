@@ -1,17 +1,17 @@
 # Twin Delayed DDPG Implementation
-## Introduction
-A project made on the basis of a course on the Udemy platform:  [https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/).
 
-The entire project was made in Google Collab. The visualization of the results was created in the OpenAI Gym libraries. 
+## Main Idea
+The aim of the project was to propose a control based on reinforcement learning algorithm. I decided to implement an architecture that is an extension of the DDPG (Deep Deterministic Gradient Descent) algorithm, i.e. an architecture with an actor and a critic. 
+The new architecture is called Twin-Delayed DDPG (TD3). 
+Link to the article: [https://arxiv.org/pdf/1802.09477.pdf](https://arxiv.org/pdf/1802.09477.pdf).
 
 <img src="assets/Ant.gif" width="450" height="300">
 
 Ant - Average Reward over the Evaluation Step: 2414.343556
 
-## Main Idea
-The aim of the project was to propose a control based on gain learning algorithms. I decided to implement an architecture that is an extension of the DDPG (Deep Deterministic Gradient Descent) algorithm, i.e. an architecture with an actor and a critic. 
-The new architecture is called Twin-Delayed DDPG (TD3). 
-Link to the article: [https://arxiv.org/pdf/1802.09477.pdf](https://arxiv.org/pdf/1802.09477.pdf).
+## Sources and environment 
+A project made on the basis of a course on the Udemy platform:  [https://www.udemy.com/course/deep-reinforcement-learning/](https://www.udemy.com/course/deep-reinforcement-learning/).
+The entire project was made in Google Collab. The visualization of the results was created in the OpenAI Gym libraries. 
 
 ## Architecture
 <img src="assets/architecture.png" width="600" height="420">
